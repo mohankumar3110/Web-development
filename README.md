@@ -1,2 +1,7 @@
-# Web-development
-Web Development in Job Portal  This project is a comprehensive web application designed to streamline the job search and recruitment process. Built with modern web development technologies, it provides a platform where job seekers can find and apply for jobs, and employers can post job openings and manage applicants efficiently. 
+# JobPortal
+ This is an online job portal website implemented using HTML,CSS,Javascript with the help of bootstrap and jquery.
+
+## Functionalities
+  * A disjointed Login and Signup methods for Users and Recruiters.
+  * A jobseeker can apply for the posted jobs in the website and he can upload his resume.
+  * Recruiter can search the resume and if his requirements meets , he can send the notification to the jobseeker.
